@@ -8,8 +8,12 @@ At least 15 minutes before the workshop:
 2. Log in with your user name 
    - your user name is your email address
    - your password will be whatever you first input as a password
-3. In the top right corner click "New" -> "terminal" (this will open a terminal window)
-4. Clone the GitHub repository
+3. If everything works it will download the workshop materials and open up the correct notebook on your screen
+   
+*IF IT DOESN'T WORK*
+
+5. In the top right corner click "New" -> "terminal" (this will open a terminal window)
+6. Clone the GitHub repository
 ```
 git clone https://github.com/popsim-consortium/workshops.git
 ```
